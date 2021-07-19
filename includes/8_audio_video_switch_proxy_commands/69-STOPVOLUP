@@ -1,0 +1,18 @@
+<h2 id='stop-vol-up'>STOP VOL UP</h2>
+<p>Stop ramping the volume up.</p>
+<h3 id='signature'>Signature</h3>
+<p><code>STOP_VOL_UP ()</code></p>
+
+<table><thead>
+<tr>
+<th>Parameter</th>
+<th>Description</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>int</td>
+<td>Output Binding ID</td>
+</tr>
+</tbody></table>
+<h3 id='returns'>Returns</h3>
+<p><code>None</code></p>
